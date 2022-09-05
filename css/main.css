@@ -1,5 +1,12 @@
+html, body{
+	overflow-x: hidden;
+}
+
 body{
-    font-family: 'Titillium Web', sans-serif;
+	font-family: 'Lora', serif;
+}
+.section-title{
+	margin-top: 5rem;
 }
 header{
     margin-top: 75px;
